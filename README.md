@@ -7,3 +7,18 @@ This interactive Pokédex lets Pokémon fans explore and catalog their favorite 
 Image of Software
 
 ![Logo do Projeto](images/software-image.png)
+
+## Como Executar
+
+How to Execute the Pokédex
+Steps to Run
+Download the Files: Download the Pokédex repository directly from GitHub.
+1. Clone o repositório
+   git clone https://github.com/jeferson-primer/pokedex.git
+
+Extract the Files: If the download is a compressed file, extract it to a folder of your choice.
+
+Open in Browser: Navigate to the folder where the files were extracted and open the index.html file in your preferred browser.
+
+Enjoy the Game!
+Now you can play and explore the Pokédex directly in your browser!   

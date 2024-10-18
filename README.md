@@ -14,7 +14,7 @@ How to Execute the Pokédex
 Steps to Run
 Download the Files: Download the Pokédex repository directly from GitHub.
 1. Clone o repositório
-   git clone https://github.com/jeferson-primer/pokedex
+   git clone https://github.com/jefersonprimer/pokedex
 
 Extract the Files: If the download is a compressed file, extract it to a folder of your choice.
 
